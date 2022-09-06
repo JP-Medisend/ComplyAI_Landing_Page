@@ -1,3 +1,3 @@
-# Medisend Landing Page
+# COMPLY AI Landing Page
 
-Landing page for Medisend.
+Landing page for Comply AI.
